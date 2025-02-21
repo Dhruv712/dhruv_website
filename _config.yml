@@ -1,0 +1,12 @@
+title: Dhruv Sumathi
+email: dhruv.sumathi@gmail.com
+description: "work in progress"
+baseurl: "" # leave empty if deploying at the domain root
+url: "https://www.yourdomain.com" # replace with your domain
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
