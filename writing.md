@@ -1,8 +1,13 @@
 ---
 layout: page
 title: "Writing"
-nav: true
 permalink: /writing/
+nav: true
 ---
 
-Welcome to my Writing page. Start sharing your posts here.
+{% for post in site.posts %}
+<article>
+  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <p>{{ post.excerpt }}</p>
+</article>
+{% endfor %}
