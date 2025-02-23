@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "My First Post"
+title: "Coming soon"
 date: 2025-02-22
 categories: writing
 ---
 
-This is my first blog post on the Writing page. Here, I'll share my thoughts and ideas...
+I'll be writing about transitioning to AI and AI safety soon. Thanks for visiting :)
