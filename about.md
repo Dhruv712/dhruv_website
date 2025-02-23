@@ -34,9 +34,11 @@ nav: true
   <div class="about-text">
     <h2>Hi, I'm Dhruv</h2>
     <p>
-      Welcome to my personal website. I'm passionate about writing, coding, and all things creative.
-      Here you'll find my thoughts on various topics and my journey through the world of technology.
-      [Add more details about yourself here…]
+      I’m Dhruv. I grew up in Boston and went to school at Stanford. Some things I love are: spontaneous adventures to “I know a spot” places, films (and film scores) that make me laugh or cry (anything by Chris Nolan, Hans Zimmer, or Ramin Djawadi), airplanes and the Oshkosh airshow, jazz, sci-fi (Neal Stephenson, Thee Body Problem), short stories (Ted Chiang), and science history.
+      
+      I’ve spent the last two and a half years at Cradle, building hardware to enable reversible cryopreservation of brain tissue and organs, and having the time of my life with truly one-of-a-kind people. Recently, I decided to leave the company to try to help make the world’s transition to powerful AI systems go well. I’ll be writing some blog posts on this, so check those out if you have a minute!
+      
+      My email is dhruv.sumathi@gmail.com. Please reach out if you want to talk about any of the above, or about something completely unrelated.
     </p>
   </div>
 </div>
