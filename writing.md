@@ -7,7 +7,7 @@ nav: true
 
 <style>
   .post-title {
-    font-size: 1.5rem; /* Adjust this value as needed */
+    font-size: 0.75rem; /* Adjust this value as needed */
   }
 </style>
 
