@@ -15,6 +15,9 @@ nav: true
     max-width: 800px;
     margin: 0 auto;
   }
+  .profile-picture {
+    align-self: flex-start; /* aligns the profile picture container to the left */
+  }
   .profile-picture img {
     max-width: 200px;
     width: 100%;
