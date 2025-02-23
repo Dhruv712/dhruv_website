@@ -1,9 +1,5 @@
 ---
-layout: page
-title: "About"
+layout: none
 permalink: /
-nav: true
 ---
-
-Welcome to my About page!  
-Here you can add all the content you want to introduce yourself.
+<meta http-equiv="refresh" content="0; url=/about/" />
