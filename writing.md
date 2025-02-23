@@ -6,14 +6,16 @@ nav: true
 ---
 
 <style>
-  .post-title {
-    font-size: 0.75rem; /* Adjust this value as needed */
+  .posts-list h2 {
+    font-size: 1.5rem; /* Adjust the size for post titles only */
   }
 </style>
 
-{% for post in site.posts %}
-<article>
-  <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <p>{{ post.excerpt }}</p>
-</article>
-{% endfor %}
+<div class="posts-list">
+  {% for post in site.posts %}
+  <article>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p>{{ post.excerpt }}</p>
+  </article>
+  {% endfor %}
+</div>
