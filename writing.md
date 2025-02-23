@@ -16,7 +16,7 @@ nav: true
   }
   .posts-list .post-title {
     margin: 0;
-    font-size: 1.5rem;
+    font-size: 1.0rem;
     font-family: Arial, sans-serif;
   }
   .posts-list .post-title a {
