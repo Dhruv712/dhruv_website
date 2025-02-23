@@ -17,7 +17,7 @@ nav: true
   .posts-list .post-title {
     margin: 0;
     font-size: 1.3rem;
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
   }
   .posts-list .post-title a {
     color: #000; /* black text */
@@ -26,7 +26,7 @@ nav: true
   .posts-list .post-date {
     font-size: 0.9rem;
     color: #666;
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
   }
 </style>
 
