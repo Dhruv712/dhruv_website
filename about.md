@@ -18,7 +18,6 @@ nav: true
   .profile-picture img {
     max-width: 200px;
     width: 100%;
-    border-radius: 50%;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   }
   .about-text {
