@@ -6,6 +6,8 @@ categories: writing
 
 ---
 
+### We Shouldn't Be Here But We Are
+
 You are the result of nearly 14 billion years of atoms bouncing around randomly and occasionally making larger, more ordered structures. The biological evolution that birthed you was a 3.5 billion year house of cards, a chaotic scrapbook of “whoops, that shouldn’t have worked” moments and flimsy miracles stacked so high the whole thing should have toppled over by now. You were the one lucky sperm that made it to an indifferent egg to make this entire human being, this computer they say is the most advanced we know of and if any other sperm had hit the same indifferent egg then you would just… not exist.
 
 And then they tell you that if you’re lucky you’ll have 100 years to roam the forests and mountains and deserts and cities and beaches. 100 years to experience beauty, happiness, fulfillment, pain, sadness, and so on. You’ll find some pretty seashells, and you’ll lose some, but you’ll find more, and by the time you’re old you’ll have a nice little monument to your time as a collector on the sands. And then you’ll just leave them there – for the wind or the strangers to scatter – and you’ll wade into the ocean where you’ll spend the rest of eternity in darkness. And they say that’s *good*. It’s *natural*. 
@@ -66,6 +68,7 @@ If you’re reading this, it’s hard to overstate what’s at stake for us. A v
 If all of this makes you deeply uncomfortable, or if you disagree with the premise that we *should* live longer, I’d ask the following: if near the end of your life I asked you if you wanted one more day – one more day with your family, one more sunrise and one more sunset, one more favorite meal, would you say yes? And how about one more day after that? How far would this go?
 
 ---
+### What Then?
 
 While I’m not certain we’ll reach lifetime escape velocity in this century, the implications if we do are quite large. If you think there’s even the faintest possibility, it would make sense to prepare – whether that means thinking about your life trajectory in more flexible terms or taking better care of your physical health.
 
