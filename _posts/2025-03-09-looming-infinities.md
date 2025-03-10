@@ -69,4 +69,4 @@ If all of this makes you deeply uncomfortable, or if you disagree with the premi
 
 While I’m not certain we’ll reach lifetime escape velocity in this century, the implications if we do are quite large. If you think there’s even the faintest possibility, it would make sense to prepare – whether that means thinking about your life trajectory in more flexible terms or taking better care of your physical health.
 
-Or maybe even [start a new religion.](https://dontdie.bryanjohnson.com/)
+Or maybe even [starting a new religion.](https://dontdie.bryanjohnson.com/)
