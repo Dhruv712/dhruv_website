@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Looming Infinites"
+title: "Looming Infinities"
 date: 2025-03-09
 categories: writing
 
