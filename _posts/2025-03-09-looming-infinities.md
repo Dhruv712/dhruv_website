@@ -40,7 +40,7 @@ Even if we discover a hard limit to lifespan, the cause is not lost – it’s a
 
 What if we *could* live for hundreds of years, or thousands, or longer? I think a few natural things would happen:
 
-**Individual and Collective Thoughtfulness:**
+**Individual and Collective Thoughtfulness**
 
 If in the default path we’re to live for a very, very long time, the stakes of our decisions would get higher. For one, I’d be much more careful crossing the street so as not to squander all of that potential being flattened by the local bus. And I think that caution would scale to society as a whole, because the stakes of societal decisions would get that much higher too. Most [externalized costs](https://en.wikipedia.org/wiki/Externality) (the bad consequences of our actions that we can offload to others) would become deeply internalized given enough time. Politicians could no longer overlook the long-term consequences of their choices, as they'd live to witness them firsthand. Perhaps we’d be more incentivized to prevent radical climate change for the same reason. In this world, humanity becomes more thoughtful, because every action has enduring consequences that we can’t as easily hand off to future generations.
 
@@ -69,4 +69,4 @@ If all of this makes you deeply uncomfortable, or if you disagree with the premi
 
 While I’m not certain we’ll reach lifetime escape velocity in this century, the implications if we do are quite large. If you think there’s even the faintest possibility, it would make sense to prepare – whether that means thinking about your life trajectory in more flexible terms or taking better care of your physical health.
 
-Or maybe even [starting a new religion.](https://dontdie.bryanjohnson.com/)
+Or maybe even [start a new religion.](https://dontdie.bryanjohnson.com/)
