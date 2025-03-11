@@ -28,8 +28,6 @@ We’ve baked death deep into our culture. We call it necessary, and many call i
 
 ![Life expectancy graph](/assets/images/life_expectancy_graph.png)
 
-I’m not a techno-optimist in the [Marc Andreessen kind of way](https://a16z.com/the-techno-optimist-manifesto/). I don’t have ideological ties to the advancement of all technology without pause or caution or thoughtfulness. I’m also not a techno-pessimist, because technology *has* unequivocally made our lives better over time – e.g. modern medicine, access to electricity, sewer systems and improved sanitation, supply chains that give us access to foods and goods from all over the world, the Internet, and so on.  And no matter what you believe, the colossal machine of technological advancement *will* continue until it either can’t, or is somehow complete (the latter being unlikely).
-
 As we age, we normally contract diseases. Sometimes there are cures. Historically, aging has outpaced these cures – even the luckiest among us eventually die of old age. Soon, though, treatments may outpace aging—what some refer to as "lifetime escape velocity," where each year of treatment advancement adds more than a year of potential lifespan. **It’s hard to say where this trend could stop, or if it will take our lifespans all the way to “as long as there are resources to exploit in the universe,” but there’s a lot of whitespace there. I believe much of humanity will reach lifetime escape velocity in this century.
 
 Consider cystic fibrosis as an example. This graph shows the median age of survival for cystic fibrosis patients over time, as new treatments were invented.
