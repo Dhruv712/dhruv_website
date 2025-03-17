@@ -36,7 +36,7 @@ Consider cystic fibrosis as an example. This graph shows the median age of survi
 
 A child born in 1950 would barely survive beyond infancy, but incremental advancements have continuously extended survival. Imagine if medical progress outpaced disease progression dramatically; those born with seemingly insurmountable conditions could enjoy full, healthy lives.
 
-Even if we discover a hard limit to lifespan, the cause is not lost – it’s a real possibility that some neurotechnologies will allow us to live on in some way, through a gradual transfer of cognition to computers like the kind described in [this short story](https://www.asimov.press/p/gentle-romance).
+Even if we discover a hard limit to lifespan, the cause is not lost – it’s a real possibility that some neurotechnologies will allow us to live on in some way, through a gradual transfer of cognition to computers like the kind described in <a href="https://www.asimov.press/p/gentle-romance" target="_blank">this short story</a>.
 
 What if we *could* live for hundreds of years, or thousands, or longer? I think a few natural things would happen:
 
@@ -68,6 +68,6 @@ If all of this makes you deeply uncomfortable, or if you disagree with the premi
 ---
 ### What Then?
 
-While I’m not certain we’ll reach lifetime escape velocity in this century, the implications if we do are quite large. If you think there’s even the faintest possibility, it would make sense to prepare – whether that means thinking about your life trajectory in more flexible terms or taking better care of your physical health.
+We are conceivably the first generation for whom reaching lifetime escape velocity is a real possibility. It would make sense to prepare, both individually and societally. Individually, this may mean taking better care of our physical health. Societally, I think we should direct more effort to a) preventative medicine, longevity, and cryopreservation and b) preventing outcomes that could derail these plans (e.g. deadly global pandemics, misaligned and powerful AI systems, climate change).
 
-Or maybe even [starting a new religion.](https://dontdie.bryanjohnson.com/)
+The egg we now carry in our hands holds within it the farthest reaches of the universe. Now, more than ever, we need to be careful not to break it.
