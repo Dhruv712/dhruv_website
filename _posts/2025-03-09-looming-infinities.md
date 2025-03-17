@@ -54,10 +54,10 @@ I see friends making life decisions predicated on their age, all the time.
 
 Some examples:
 
-- “*I need to have kids by the time I’m 35”*
-- “My 20’s are for adventure”
+- *“I need to have kids by the time I’m 35”*
+- *“My 20’s are for adventure”*
 - *“College is the best four years of your life”*
-- “I’m too old for that”
+- *“I’m too old for that”*
 
 Perhaps many of us would rethink our life trajectories in this world. Maybe a one-time, four-year university program would no longer be the end of our education. Maybe we’d go back to school periodically. Or perhaps we’d switch careers more often, or have children later in life, or wait longer to marry, or continue playing sports and pursuing hobbies as we age, to name a few examples. Or, if we weren’t limited to 30 or so “prime” years, perhaps we could afford to take more career risks – like producing art, or writing, or starting a company.
 
