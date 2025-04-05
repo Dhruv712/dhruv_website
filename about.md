@@ -42,6 +42,9 @@ nav: true
       I’ve spent the last two and a half years at Cradle, building hardware to enable reversible cryopreservation of brain tissue and organs, and having the time of my life with truly one-of-a-kind people. Recently, I decided to switch focus and work on making the world’s transition to powerful AI systems go well.
     </p>
     <p>
+      I like to write about these things, and you can find this writing on my <a href="https://dhruvsumathi.substack.com/">Substack</a> or here on this website.
+    </p>
+    <p>
       My email is dhruv.sumathi@gmail.com. Please reach out if you want to talk about any of the above, or about something completely unrelated.
     </p>
   </div>
