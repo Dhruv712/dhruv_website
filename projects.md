@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Writing"
-permalink: /writing/
+title: "Projects"
+permalink: /projects/
 nav: true
 ---
 
