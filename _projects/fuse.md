@@ -159,9 +159,9 @@ Our second test was more thrilling. This time, we flew in a real plane. Dhruv wa
 
 This turn was done with extreme accuracy (don’t worry, we aren’t biased at all). Incredibly, while roll and pitch are communicated quite intuitively, heading is a different story. Periodic pulses on the stomach are far more abstract than vibration in the direction of roll, for example. Yet, Dhruv not only ended the turn at the correct heading, but also maintained safe roll and pitch angles throughout, showing that all three information streams could be understood and integrated simultaneously.
 
-[Dhruv performs a turn from West to East, then levels out, with his eyes closed the entire time. The “wow – oh my, oh my god” at the end of the video is a result of his surprise that it actually worked.](https://youtu.be/l7iXa4vMnog)
+[Watch the Test Flight Here.](https://youtu.be/l7iXa4vMnog)
 
-Dhruv performs a turn from West to East, then levels out, with his eyes closed the entire time. The “wow – oh my, oh my god” at the end of the video is a result of his surprise that it actually worked.
+In it, Dhruv performs a turn from West to East, then levels out, with his eyes closed the entire time. The “wow – oh my, oh my god” at the end of the video is a result of his surprise that it actually worked.
 
 ## Open Questions
 
