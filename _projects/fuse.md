@@ -1,12 +1,8 @@
-## <!-- _projects/fuse.md -->
-
 ---
-
 title: Fuse – Sensory Augmentation for Pilots
 description: Built a vibrotactile vest that provides spatial feedback to airplane pilots.
 date: 2023-09-01
 tags: [neuro, hardware]
-
 ---
 
 ## Introduction
