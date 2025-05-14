@@ -8,7 +8,10 @@ nav: true
 Some of my film and photography work.
 
 <!-- You can add image galleries, videos, or projects here -->
-<video controls style="width: 100%; max-width: 700px; margin: 2rem auto; display: block; border-radius: 12px;">
-  <source src="/assets/videos/film-photo/Westworld_Ink_1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 2rem 0;">
+  <iframe src="https://youtu.be/ALgsvnctf00"
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+          allowfullscreen
+          loading="lazy">
+  </iframe>
+</div>
