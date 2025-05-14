@@ -7,7 +7,7 @@ layout: page
 permalink: /projects/mystery-machine/
 ---
 
-![Mystery Machine Front View](/assets/images/mystery-machine/door-wings.jpg)
+![Mystery Machine Front View](/assets/images/mystery-machine/door_wings.png)
 
 ## 🛠️ Project Overview
 
@@ -21,9 +21,9 @@ The idea came about during a party, when Nico randomly said "we should make the 
 - **Paint:** Drove van to a ranch in San Diego. Used paint color-matched to images of the real mystery machine, a paint gun, and some stencils for the lettering and flowers.
 - **Interior:** Stripped the inside and carpeted with turf, installed an armchair and some other seating.
 
-![Side Panel](/assets/images/mystery-machine/side.jpg)
-![Painting in Progress](/assets/images/mystery-machine/paint.jpg)
-![Interior Lighting](/assets/images/mystery-machine/interior.jpg)
+![Side Panel](/assets/images/mystery-machine/white_van_unsuccessful_sanding.jpeg)
+![A Coat of Primer](/assets/images/mystery-machine/day_primer.png)
+![Painting in Progress](/assets/images/mystery-machine/emily_stenciling_2.jpeg)
 
 ## 🚐 On the Road
 
