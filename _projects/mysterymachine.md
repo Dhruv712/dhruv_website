@@ -51,7 +51,7 @@ After the conversion, we had some awesome adventures. We camped in the van on a 
   <img src="/assets/images/mystery-machine/day_primer.png" alt="Van after a couple coats of primer">
   <img src="/assets/images/mystery-machine/emily_stenciling_2.jpeg" alt="Emily painting lines">
   <img src="/assets/images/mystery-machine/full_gang.png" alt="The full gang">
-  <img src="/assets/images/mystery-machine/finished_van_church_lot.jpeg." alt="Finished van before an oil change">
+  <img src="/assets/images/mystery-machine/finished_van_church_lot.jpeg" alt="Finished van before an oil change">
   <img src="/assets/images/mystery-machine/van_hotel.jpeg" alt="The van configured as a mini hotel.">
 </div>
 
