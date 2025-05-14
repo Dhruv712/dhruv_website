@@ -3,7 +3,7 @@ title: Making the Mystery Machine
 description: Converted an old white van into the Mystery Machine from Scooby-Doo.
 date: 2021-08-01
 tags: [hardware, design, fun]
-layout: page
+layout: project
 permalink: /projects/mystery-machine/
 ---
 
