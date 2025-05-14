@@ -8,7 +8,7 @@ permalink: /projects/mystery-machine/
 ---
 
 <figure style="text-align: center; margin: 2rem auto;">
-  <img src="/assets/images/mystery-machine/door_wings.png" alt="Mystery Machine Front View" style="width: 60%; max-width: 600px; border-radius: 8px;" />
+  <img src="/assets/images/mystery-machine/door_wings.png" alt="Mystery Machine Front View" style="width: 60%; max-width: 600px; display: block; margin: 0 auto; border-radius: 8px;" />
   <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem;">The finished Mystery Machine — doors open, wings out.</figcaption>
 </figure>
 
@@ -25,17 +25,17 @@ The idea came about during a party, when Nico randomly said "we should make the 
 - **Interior:** Stripped the inside and carpeted with turf, installed an armchair and some other seating.
 
 <figure style="text-align: center; margin: 2rem auto;">
-  <img src="/assets/images/mystery-machine/white_van_unsuccessful_sanding.jpeg" alt="Side view, partly sanded" style="width: 60%; max-width: 600px; border-radius: 8px;" />
+  <img src="/assets/images/mystery-machine/white_van_unsuccessful_sanding.jpeg" alt="Side view, partly sanded" style="width: 60%; max-width: 600px; display: block; margin: 0 auto; border-radius: 8px;" />
   <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem;">Early attempt at sanding. We gave up soon after this photo.</figcaption>
 </figure>
 
 <figure style="text-align: center; margin: 2rem auto;">
-  <img src="/assets/images/mystery-machine/day_primer.png" alt="Side view, after a couple coats of primer" style="width: 60%; max-width: 600px; border-radius: 8px;" />
+  <img src="/assets/images/mystery-machine/day_primer.png" alt="Side view, after a couple coats of primer" style="width: 60%; max-width: 600px; display: block; margin: 0 auto; border-radius: 8px;" />
   <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem;">After a couple coats of primer, things started looking real.</figcaption>
 </figure>
 
 <figure style="text-align: center; margin: 2rem auto;">
-  <img src="/assets/images/mystery-machine/emily_stenciling_2.jpeg" alt="Emily drawing lines" style="width: 60%; max-width: 600px; border-radius: 8px;" />
+  <img src="/assets/images/mystery-machine/emily_stenciling_2.jpeg" alt="Emily drawing lines" style="width: 60%; max-width: 600px; display: block; margin: 0 auto; border-radius: 8px;" />
   <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5rem;">Emily carefully stenciling the iconic lines.</figcaption>
 </figure>
 
