@@ -31,7 +31,8 @@ nav: true
 </style>
 
 <div class="projects-list">
-  {% for project in site.projects %}
+  {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
+  {% for project in sorted_projects %}
   <article class="project">
     <div class="project-header">
       <h2 class="project-title"><a href="{{ project.url }}">{{ project.title }}</a></h2>
