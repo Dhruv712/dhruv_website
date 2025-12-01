@@ -15,3 +15,14 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  travel:
+    output: true
+    permalink: /travel/:path/
+
+# Only these pages will appear in the top navigation
+header_pages:
+  - about.md
+  - projects.md
+  - writing.md
+  - film-photo.md
+  - travel.md

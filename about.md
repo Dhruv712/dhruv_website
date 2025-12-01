@@ -39,7 +39,7 @@ nav: true
       I’m Dhruv. I grew up in Boston, went to school at Stanford and studied electrical engineering, and now live in San Francisco. Some things I love are: spontaneous adventures to “I know a spot” places, films (and film scores) that make me laugh or cry (anything by Chris Nolan, Hans Zimmer, or Ramin Djawadi), airplanes and the Oshkosh airshow, jazz, sci-fi (Neal Stephenson, Thee Body Problem), short stories (Ted Chiang), and science history.
     </p>
     <p>
-      I’ve spent the last two and a half years at Cradle, building hardware to enable reversible cryopreservation of brain tissue and organs, and having the time of my life with truly one-of-a-kind people. Recently, I decided to switch focus and work on making the world’s transition to powerful AI systems go well.
+      I’ve spent the last two and a half years at <a href="https://www.untillabs.com/">Until</a>, building hardware to enable reversible cryopreservation of brain tissue and organs. Recently, I decided to switch focus and work on making the world’s transition to powerful AI systems go well.
     </p>
     <p>
       I like to write about these things, and you can find this writing on my <a href="https://dhruvsumathi.substack.com/">Substack</a> or here on this website.
